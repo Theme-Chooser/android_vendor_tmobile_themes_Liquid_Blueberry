@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_inner_focus_c">@drawable/com_android_music_appwidget_inner_focus_c</item>
+    <item name="drawable/appwidget_inner_focus_l">@drawable/com_android_music_appwidget_inner_focus_l</item>
+    <item name="drawable/appwidget_inner_focus_r">@drawable/com_android_music_appwidget_inner_focus_r</item>
+    <item name="drawable/appwidget_inner_press_c">@drawable/com_android_music_appwidget_inner_press_c</item>
+    <item name="drawable/appwidget_inner_press_l">@drawable/com_android_music_appwidget_inner_press_l</item>
+    <item name="drawable/appwidget_inner_press_r">@drawable/com_android_music_appwidget_inner_press_r</item>
+    <item name="drawable/appwidget_bg">@drawable/com_android_music_appwidget_bg</item>
+    <item name="drawable/launch">@drawable/net_sourceforge_subsonic_androidapp_launch</item>
+</resource-redirections>

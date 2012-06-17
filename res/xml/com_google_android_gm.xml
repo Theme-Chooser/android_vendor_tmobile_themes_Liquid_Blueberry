@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/custom_title_btn_pressed">@drawable/com_google_android_gm_custom_title_btn_pressed</item>
+    <item name="drawable/custom_title_btn_focused">@drawable/com_google_android_gm_custom_title_btn_focused</item>
+    <item name="drawable/account_switcher_btn_focused">@drawable/com_google_android_gm_account_switcher_btn_focused</item>
+    <item name="drawable/account_switcher_btn_pressed">@drawable/com_google_android_gm_account_switcher_btn_pressed</item>
+    <item name="drawable/ic_launcher_mail">@drawable/com_google_android_gm_ic_launcher_mail</item>
+</resource-redirections>

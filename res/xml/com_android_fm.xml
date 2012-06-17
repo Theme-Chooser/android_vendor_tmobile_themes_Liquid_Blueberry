@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/btn_arrow_left_press">@drawable/com_android_fm_btn_arrow_left_press</item>
+    <item name="drawable/btn_arrow_left_selected">@drawable/com_android_fm_btn_arrow_left_selected</item>
+    <item name="drawable/btn_arrow_right_press">@drawable/com_android_fm_btn_arrow_right_press</item>
+    <item name="drawable/btn_arrow_right_selected">@drawable/com_android_fm_btn_arrow_right_selected</item>
+    <item name="drawable/button_loudspeaker_on">@drawable/com_android_fm_button_loudspeaker_on</item>
+    <item name="drawable/button_power_on">@drawable/com_android_fm_button_power_on</item>
+    <item name="drawable/fmradio_background">@drawable/com_android_fm_fmradio_background</item>
+    <item name="drawable/ic_launcher_fmradio">@drawable/com_android_fm_ic_launcher_fmradio</item>
+</resource-redirections>

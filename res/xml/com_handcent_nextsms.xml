@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/ic_handcent">@drawable/com_handcent_nextsms_ic_handcent</item>
+    <item name="drawable/btn_send_selected_1">@drawable/com_handcent_nextsms_btn_send_selected_1</item>
+    <item name="drawable/button_unpressed">@drawable/com_handcent_nextsms_button_unpressed</item>
+    <item name="drawable/icon_add">@drawable/com_handcent_nextsms_icon_add</item>
+    <item name="drawable/icon_add_selected">@drawable/com_handcent_nextsms_icon_add_selected</item>
+    <item name="drawable/icon_attach">@drawable/com_handcent_nextsms_icon_attach</item>
+    <item name="drawable/icon_attach_selected">@drawable/com_handcent_nextsms_icon_attach_selected</item>
+    <item name="drawable/icon_widget_unread">@drawable/com_handcent_nextsms_icon_widget_unread</item>
+    <item name="drawable/ic_sms_mms_delivered">@drawable/com_handcent_nextsms_ic_sms_mms_delivered</item>
+    <item name="drawable/yi_navi_btn_last">@drawable/com_handcent_nextsms_yi_navi_btn_last</item>
+    <item name="drawable/yi_navi_btn_next">@drawable/com_handcent_nextsms_yi_navi_btn_next</item>
+    <item name="drawable/ym_btn_arrow_left_press">@drawable/com_android_vending_btn_gallery_arrow_left_press</item>
+    <item name="drawable/ym_btn_arrow_left_selected">@drawable/com_android_vending_btn_gallery_arrow_left_press</item>
+    <item name="drawable/ym_btn_arrow_right_press">@drawable/com_android_vending_btn_gallery_arrow_right_press</item>
+    <item name="drawable/ym_btn_arrow_right_selected">@drawable/com_android_vending_btn_gallery_arrow_right_press</item>
+</resource-redirections>

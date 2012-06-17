@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appicon">@drawable/com_quoord_tapatalkxda_activity_appicon</item>
+    <item name="drawable/btn_circle_disable_focussed">@drawable/frameworks_res_btn_circle_disable_focussed</item>
+    <item name="drawable/btn_circle_pressed">@drawable/frameworks_res_btn_circle_pressed</item>
+    <item name="drawable/btn_circle_selected">@drawable/frameworks_res_btn_circle_selected</item>
+    <item name="drawable/morefootlogo">@drawable/com_quoord_tapatalkxdapre_activity_morefootlogo</item>
+    <item name="drawable/newpost">@drawable/frameworks_res_menuitem_background_pressed</item>
+    <item name="drawable/shortcuticon">@drawable/com_quoord_tapatalkxdapre_activity_shortcuticon</item>
+    <item name="drawable/splash">@drawable/com_quoord_tapatalkxdapre_activity_splash</item>
+    <item name="drawable/stat_sms">@drawable/com_quoord_tapatalkxdapre_activity_stat_sms</item>
+    <item name="drawable/tab_focus">@drawable/frameworks_res_tab_focus</item>
+    <item name="drawable/tab_press">@drawable/frameworks_res_tab_press</item>
+</resource-redirections>

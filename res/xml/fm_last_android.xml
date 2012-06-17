@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/fm_last_android_icon</item>
+    <item name="drawable/widget_button_left_focus">@drawable/fm_last_android_widget_button_left_focus</item>
+    <item name="drawable/widget_button_middle_focus">@drawable/fm_last_android_widget_button_middle_focus</item>
+    <item name="drawable/widget_button_right_focus">@drawable/fm_last_android_widget_button_right_focus</item>
+    <item name="drawable/widget_progress_filled">@drawable/fm_last_android_widget_progress_filled</item>
+    <item name="drawable/widget_top_panel">@drawable/fm_last_android_widget_top_panel</item>
+</resource-redirections>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/highlight_pressed">@drawable/com_android_inputmethod_latin_highlight_pressed</item>
+    <item name="drawable/btn_keyboard_key_light_popup_selected">@drawable/com_android_inputmethod_latin_btn_keyboard_key_light_popup_selected</item>
+    <item name="drawable/keyboard_popup_panel_background">@drawable/com_android_inputmethod_latin_keyboard_popup_panel_background</item>
+    <item name="drawable/sym_keyboard_space_led">@drawable/com_android_inputmethod_latin_sym_keyboard_space_led</item>
+    <item name="drawable/list_selector_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
+    <item name="color/candidate_recommended">@color/color_primary_press</item>
+    <item name="color/candidate_other">@color/color_primary_focus</item>
+</resource-redirections>

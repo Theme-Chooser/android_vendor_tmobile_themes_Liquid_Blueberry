@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/bt_share">@drawable/com_android_bluetooth_icon</item>
+    <item name="drawable/icon">@drawable/com_android_bluetooth_icon</item>
+    <item name="drawable/ic_launcher_folder_bluetooth">@drawable/com_android_bluetooth_ic_launcher_folder_bluetooth</item>
+</resource-redirections>

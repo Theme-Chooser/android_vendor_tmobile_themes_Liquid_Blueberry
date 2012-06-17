@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_maps">@drawable/com_google_android_apps_maps_ic_launcher_maps</item>
+    <item name="drawable/da_ic_navigation">@drawable/com_google_android_apps_maps_da_ic_navigation</item>
+    <item name="drawable/latitude_icon">@drawable/com_google_android_apps_maps_latitude_icon</item>
+    <item name="drawable/places_icon">@drawable/com_google_android_apps_maps_places_icon</item>
+    <item name="drawable/friends_appwidget_blue_dot">@drawable/com_google_android_apps_maps_friends_appwidget_blue_dot</item>
+    <item name="drawable/friends_appwidget_checkin_btn_checkedin">@drawable/com_google_android_apps_maps_friends_appwidget_checkin_btn_checkedin</item>
+    <item name="drawable/friends_appwidget_checkin_btn_checkedin">@drawable/com_google_android_apps_maps_friends_appwidget_checkin_btn_checkedin</item>
+    <item name="drawable/friends_appwidget_highlight_bg">@drawable/com_google_android_youtube_appwidget_inner_focus_l</item>
+    <item name="drawable/friends_appwidget_left_highlight_bg">@drawable/com_google_android_youtube_appwidget_inner_focus_l</item>
+    <item name="drawable/friends_appwidget_right_highlight_bg">@drawable/com_google_android_youtube_appwidget_inner_focus_l</item>
+    <item name="drawable/friends_appwidget_watermark">@drawable/com_google_android_apps_maps_friends_appwidget_watermark</item>
+    <item name="drawable/friends_appwidget_content_bg">@drawable/com_google_android_apps_maps_friends_appwidget_content_bg</item>
+    <item name="drawable/friends_appwidget_top_bg">@drawable/com_google_android_apps_maps_friends_appwidget_top_bg</item>
+</resource-redirections>

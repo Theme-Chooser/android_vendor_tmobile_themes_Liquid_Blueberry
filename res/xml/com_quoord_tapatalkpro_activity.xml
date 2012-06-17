@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appicon">@drawable/com_quoord_tapatalkpro_activity_appicon</item>
+</resource-redirections>

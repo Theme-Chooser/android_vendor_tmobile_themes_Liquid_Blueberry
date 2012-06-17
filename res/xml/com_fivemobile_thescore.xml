@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/com_fivemobile_thescore_icon</item>
+    <item name="drawable/widget_background">@drawable/com_fivemobile_thescore_widget_background</item>
+    <item name="drawable/widget_background_no_game">@drawable/com_fivemobile_thescore_widget_background_no_game</item>
+    <item name="drawable/widget_background_tournament">@drawable/com_fivemobile_thescore_widget_background_tournament</item>
+    <item name="drawable/widget_center_left_tab">@drawable/com_fivemobile_thescore_widget_tab</item>
+    <item name="drawable/widget_center_left_tab_over">@drawable/com_fivemobile_thescore_widget_tab_over</item>
+    <item name="drawable/widget_center_right_tab">@drawable/com_fivemobile_thescore_widget_tab</item>
+    <item name="drawable/widget_center_right_tab_over">@drawable/com_fivemobile_thescore_widget_tab_over</item>
+    <item name="drawable/widget_center_tab">@drawable/com_fivemobile_thescore_widget_tab</item>
+    <item name="drawable/widget_center_tab_over">@drawable/com_fivemobile_thescore_widget_tab_over</item>
+    <item name="drawable/widget_chevron_off">@drawable/com_fivemobile_thescore_widget_chevron_off</item>
+    <item name="drawable/widget_chevron_over">@drawable/com_fivemobile_thescore_widget_chevron_over</item>
+    <item name="drawable/widget_chevron_next_off">@drawable/com_fivemobile_thescore_widget_chevron_next_off</item>
+    <item name="drawable/widget_chevron_next_on">@drawable/com_fivemobile_thescore_widget_chevron_next_on</item>
+    <item name="drawable/widget_chevron_previous_off">@drawable/com_fivemobile_thescore_widget_chevron_previous_off</item>
+    <item name="drawable/widget_chevron_previous_on">@drawable/com_fivemobile_thescore_widget_chevron_previous_on</item>
+    <item name="drawable/widget_left_tab">@drawable/com_fivemobile_thescore_widget_tab</item>
+    <item name="drawable/widget_left_tab_over">@drawable/com_fivemobile_thescore_widget_tab_over</item>
+    <item name="drawable/widget_logo_off">@drawable/com_fivemobile_thescore_widget_logo_off</item>
+    <item name="drawable/widget_logo_over">@drawable/com_fivemobile_thescore_widget_logo_over</item>
+    <item name="drawable/widget_right_tab">@drawable/com_fivemobile_thescore_widget_tab</item>
+    <item name="drawable/widget_right_tab_over">@drawable/com_fivemobile_thescore_widget_tab_over</item>
+    <item name="drawable/widget_small_background">@drawable/com_fivemobile_thescore_widget_small_background</item>
+    <item name="drawable/widget_small_background_no_game">@drawable/com_fivemobile_thescore_widget_small_background_no_game</item>
+    <item name="drawable/widget_small_chevron_off">@drawable/com_fivemobile_thescore_widget_small_chevron_off</item>
+    <item name="drawable/widget_small_chevron_over">@drawable/com_fivemobile_thescore_widget_small_chevron_over</item>
+    <item name="drawable/widget_small_logo_off">@drawable/com_fivemobile_thescore_widget_small_logo_off</item>
+    <item name="drawable/widget_small_logo_over">@drawable/com_fivemobile_thescore_widget_small_logo_over</item>
+</resource-redirections>

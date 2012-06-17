@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/com_timsu_astrid_icon</item>
+    <item name="drawable/widget_frame">@drawable/com_timsu_astrid_widget_frame</item>
+</resource-redirections>

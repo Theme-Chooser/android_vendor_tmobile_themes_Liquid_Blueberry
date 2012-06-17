@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/textfield_im_user_pressed_pad">@drawable/com_android_mms_textfield_im_user_pressed_pad</item>
+    <item name="drawable/textfield_im_user_selected_pad">@drawable/com_android_mms_textfield_im_user_selected_pad</item>
+    <item name="drawable/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
+    <item name="drawable/bottombar_landscape_565">@drawable/frameworks_res_bottom_bar</item>
+</resource-redirections>

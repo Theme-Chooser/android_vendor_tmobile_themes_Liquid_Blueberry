@@ -1,0 +1,138 @@
+Credit:
+Upwardspiral for Blue Bionic theme which i used for a base for the Template.
+
+Version 0.0.1
+inital release
+Supports:
+com_android_browser
+com_android_calculator2
+com_android_calendar
+com_android_camera
+com_android_contacts
+com_android_deskclock
+com_android_email
+com_android_fm
+com_android_inputmethod_latin
+com_android_launcher
+com_android_mms
+com_android_music
+com_android_phone
+com_android_providers_calendar
+com_android_providers_downloads_ui
+com_android_settings
+com_android_systemui
+com_android_vending
+com_android_wallpaper
+com_bel_android_dspmanager
+com_cooliris_media
+com_cyanogenmod_cmparts
+com_google_android_apps_genie_geniewidget
+com_google_android_carhome
+com_google_android_gm
+com_tmobile_themechooser
+net_cactii_flash2
+org_openintents_filemanager
+
+Version 0.0.2
+Fixed graphics to images in frameworks res
+Added support to theme chooser wallpaper app
+Removed:
+com_android_calculator2
+
+Updated adding support to the list below:
+com_android_bluetooth
+com_android_browser
+com_android_calendar
+com_android_camera
+com_android_contacts
+com_android_deskclock
+com_android_email
+com_android_fm
+com_android_inputmethod_latin
+com_android_launcher
+com_android_mms
+com_android_music
+com_android_phone
+com_android_providers_calendar
+com_android_providers_downloads_ui
+com_android_settings
+com_android_systemui
+com_android_vending
+com_android_wallpaper
+com_aol_mobile_engadget
+com_appspot_swisscodemonkeys_apps
+com_audiogalaxy
+com_bel_android_dspmanager
+com_cooliris_media
+com_cyanogenmod_cmparts
+com_dropbox_android
+com_espn_score_center
+com_facebook_katana
+com_fivemobile_thescore
+com_google_android_apps_genie_geniewidget
+com_google_android_apps_googlevoice
+com_google_android_apps_listen
+com_google_android_apps_maps
+com_google_android_carhome
+com_google_android_gm
+com_google_android_googlequicksearchbox
+com_google_android_talk
+com_google_android_youtube
+com_google_zxing_client_android
+com_handcent_nextsms
+com_keramidas_titaniumbackup
+com_koushikdutta_rommanager
+com_levelup_touiteur
+com_liquidsmoothroms_wallpapers
+com_noshufou_android_su
+com_pandora_android
+com_quoord_tapatalkpro_activity
+com_quoord_tapatalkxda_activity
+com_skype_raider
+com_tmobile_themechooser
+com_twitter_android
+fm_last_android
+mobi_sportstap_android_sportstap
+net_cactii_flash2
+org_openintents_filemanager
+
+Version 0.0.3
+Updated a few apps as well as fixed some bugs with the
+Added support to xda premium
+Fixed some minor bugs with the app
+Fixed compile error (cush2push)
+Fixed Missing Assets (cush2push)
+Added Support to upwardspiral Theme Chooser Wallpapers
+
+Version 0.0.4
+Updated Icon to a Custom Icon
+Added adefault Wallpaper
+Fixed Images in drawable folder that was still template files that was looked over.
+
+Version 0.0.5
+Updated Theme with Most recent Blue Bionic 1.3.2 release which:
+Added Winamp icon and widget
+Added Subsonic icon and widget
+Added ATK icon and widget
+Added USB connected image
+Added Unknown contact image
+Added last.fm widget
+Added latitude icon and widget
+Added google places icon
+Added google navigation icon
+Added Adobe Reader icon
+Added Amazon appstore icon
+Added Quadrant Standard Icon
+Added Androidify Icon
+Added Tweetdeck icon
+Added Astrid widget and icon
+Added Handycalc icon
+Updated over all look
+
+Version 0.0.5
+Updated Theme with Most recent Blue Bionic 1.4.0
+What's in this version:
+LauncherPro OPTIONAL theming!
+To theme the LPP widgets, you have two options:
+1)Download the LPP theme with the Blue Bionic name. These are static themes (don’t change color automatically) and your non-rooted friends can use them too.
+2)Download the Chameleon theme that Upwardspiral made. When you are not using one of my themes, it looks like Liquid Blueberry. However, this automatically will change colors whenever you change between any of Upwardspiral themes :)

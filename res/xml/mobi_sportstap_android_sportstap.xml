@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/application_background_focussed">@drawable/frameworks_res_pressed_application_background</item>
+    <item name="drawable/application_background_pressed">@drawable/frameworks_res_pressed_application_background</item>
+    <item name="drawable/arrowpicker_down_normal">@drawable/mobi_sportstap_android_sportstap_arrowpicker_down_normal</item>
+    <item name="drawable/arrowpicker_down_pressed">@drawable/mobi_sportstap_android_sportstap_arrowpicker_down_pressed</item>
+    <item name="drawable/arrowpicker_down_selected">@drawable/mobi_sportstap_android_sportstap_arrowpicker_down_pressed</item>
+    <item name="drawable/arrowpicker_up_normal">@drawable/mobi_sportstap_android_sportstap_arrowpicker_up_normal</item>
+    <item name="drawable/arrowpicker_up_pressed">@drawable/mobi_sportstap_android_sportstap_arrowpicker_up_pressed</item>
+    <item name="drawable/arrowpicker_up_selected">@drawable/mobi_sportstap_android_sportstap_arrowpicker_up_pressed</item>
+    <item name="drawable/grid_selector_background_focus">@drawable/frameworks_res_grid_selector_background_pressed</item>
+    <item name="drawable/grid_selector_background_pressed">@drawable/frameworks_res_grid_selector_background_pressed</item>
+    <item name="drawable/icon_lowerleft_normal">@drawable/mobi_sportstap_android_sportstap_icon_lowerleft_normal</item>
+    <item name="drawable/icon_lowerleft_pressed">@drawable/mobi_sportstap_android_sportstap_icon_lowerleft_pressed</item>
+    <item name="drawable/icon_lowerleft_selected">@drawable/mobi_sportstap_android_sportstap_icon_lowerleft_pressed</item>
+    <item name="drawable/icon_red">@drawable/mobi_sportstap_android_sportstap_icon_red</item>
+    <item name="drawable/linescore_header_left">@drawable/mobi_sportstap_android_sportstap_linescore_header_left</item>
+    <item name="drawable/linescore_middle">@drawable/mobi_sportstap_android_sportstap_linescore_middle</item>
+    <item name="drawable/linescore_outline">@drawable/mobi_sportstap_android_sportstap_linescore_outline</item>
+    <item name="drawable/logo_small">@drawable/mobi_sportstap_android_sportstap_logo_small</item>
+    <item name="drawable/sportstap_black_button">@drawable/mobi_sportstap_android_sportstap_sportstap_black_button</item>
+</resource-redirections>

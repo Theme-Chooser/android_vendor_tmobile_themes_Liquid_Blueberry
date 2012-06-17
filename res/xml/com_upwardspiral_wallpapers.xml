@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/icon</item>
+    <item name="drawable/wallpaper1">@drawable/wallpaper1</item>
+    <item name="drawable/wallpaper2">@drawable/wallpaper2</item>
+    <item name="drawable/wallpaper3">@drawable/wallpaper3</item>
+    <item name="drawable/wallpaper4">@drawable/wallpaper4</item>
+    <item name="drawable/wallpaper5">@drawable/wallpaper5</item>
+    <item name="drawable/wallpaper6">@drawable/wallpaper6</item>
+    <item name="drawable/wallpaper7">@drawable/wallpaper7</item>
+    <item name="drawable/wallpaper8">@drawable/wallpaper8</item>
+    <item name="drawable/wallpaper9">@drawable/wallpaper9</item>
+    <item name="drawable/wallpaper1_small">@drawable/wallpaper1_small</item>
+    <item name="drawable/wallpaper2_small">@drawable/wallpaper2_small</item>
+    <item name="drawable/wallpaper3_small">@drawable/wallpaper3_small</item>
+    <item name="drawable/wallpaper4_small">@drawable/wallpaper4_small</item>
+    <item name="drawable/wallpaper5_small">@drawable/wallpaper5_small</item>
+    <item name="drawable/wallpaper6_small">@drawable/wallpaper6_small</item>
+    <item name="drawable/wallpaper7_small">@drawable/wallpaper7_small</item>
+    <item name="drawable/wallpaper8_small">@drawable/wallpaper8_small</item>
+    <item name="drawable/wallpaper9_small">@drawable/wallpaper9_small</item>
+    <item name="string/wallpaper_label">@string/wallpaper_label</item>
+</resource-redirections>

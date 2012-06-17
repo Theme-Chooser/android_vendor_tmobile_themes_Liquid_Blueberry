@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/frameworks_res_popup_full_dark</item>
+    <item name="drawable/ic_logo">@drawable/com_audiogalaxy_ic_logo</item>
+</resource-redirections>

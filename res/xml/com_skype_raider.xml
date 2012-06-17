@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/skype_blue">@drawable/com_skype_raider_skype_blue</item>
+</resource-redirections>

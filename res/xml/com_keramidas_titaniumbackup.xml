@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/com_keramidas_titaniumbackup_icon</item>
+    <item name="drawable/notif_icon_3">@drawable/com_keramidas_titaniumbackup_notif_icon_3</item>
+</resource-redirections>

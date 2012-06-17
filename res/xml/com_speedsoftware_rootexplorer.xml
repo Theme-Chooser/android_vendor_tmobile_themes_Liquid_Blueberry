@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/file_manager">@drawable/com_speedsoftware_rootexplorer_file_manager</item>
+    <item name="drawable/file_manager_r">@drawable/com_speedsoftware_rootexplorer_file_manager_r</item>
+</resource-redirections>

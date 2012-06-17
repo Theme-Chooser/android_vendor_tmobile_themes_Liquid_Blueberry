@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/focused_application_background">@drawable/frameworks_res_highlight_pressed</item>
+    <item name="drawable/home_button_focused">@drawable/com_fede_launcher_home_button_pressed</item>
+    <item name="drawable/home_button_pressed">@drawable/com_fede_launcher_home_button_pressed</item>
+    <item name="drawable/list_selector_background_focus">@drawable/frameworks_res_list_selector_background_focus</item>
+    <item name="drawable/list_selector_background_longpress">@drawable/frameworks_res_list_selector_background_longpress</item>
+    <item name="drawable/list_selector_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
+    <item name="drawable/trashcan_hover">@drawable/com_fede_launcher_trashcan_hover</item>
+    <item name="drawable/widget_highlight_focused">@drawable/com_fede_launcher_widget_highlight_pressed</item>
+    <item name="drawable/widget_highlight_pressed">@drawable/com_fede_launcher_widget_highlight_pressed</item>
+</resource-redirections>

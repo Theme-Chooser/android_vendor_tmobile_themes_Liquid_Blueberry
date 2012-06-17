@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/app_icon">@drawable/com_nullsoft_winamp_app_icon</item>
+    <item name="drawable/widget_bg">@drawable/frameworks_res_popup_full_dark</item>
+    <item name="drawable/widget_btn_bolt">@drawable/com_nullsoft_winamp_widget_btn_bolt</item>
+    <item name="drawable/widget_btn_next">@drawable/com_nullsoft_winamp_widget_btn_next</item>
+    <item name="drawable/widget_btn_next_disabled">@drawable/com_nullsoft_winamp_widget_btn_next_disabled</item>
+    <item name="drawable/widget_btn_next_pressed">@drawable/com_nullsoft_winamp_widget_btn_next_pressed</item>
+    <item name="drawable/widget_btn_pause">@drawable/com_nullsoft_winamp_widget_btn_pause</item>
+    <item name="drawable/widget_btn_pause_pressed">@drawable/com_nullsoft_winamp_widget_btn_pause_pressed</item>
+    <item name="drawable/widget_btn_play">@drawable/com_nullsoft_winamp_widget_btn_play</item>
+    <item name="drawable/widget_btn_play_pressed">@drawable/com_nullsoft_winamp_widget_btn_play_pressed</item>
+    <item name="drawable/widget_btn_prev">@drawable/com_nullsoft_winamp_widget_btn_prev</item>
+    <item name="drawable/widget_btn_prev_disabled">@drawable/com_nullsoft_winamp_widget_btn_prev_disabled</item>
+    <item name="drawable/widget_btn_prev_pressed">@drawable/com_nullsoft_winamp_widget_btn_prev_pressed</item>
+    <item name="drawable/widget_btn_repeat">@drawable/com_nullsoft_winamp_widget_btn_repeat</item>
+    <item name="drawable/widget_btn_repeat_all">@drawable/com_nullsoft_winamp_widget_btn_repeat_all</item>
+    <item name="drawable/widget_btn_repeat_one">@drawable/com_nullsoft_winamp_widget_btn_repeat_one</item>
+    <item name="drawable/widget_btn_repeat_one_pressed">@drawable/com_nullsoft_winamp_widget_btn_repeat_one_pressed</item>
+    <item name="drawable/widget_btn_repeat_pressed">@drawable/com_nullsoft_winamp_widget_btn_repeat_pressed</item>
+    <item name="drawable/widget_btn_shuffle">@drawable/com_nullsoft_winamp_widget_btn_shuffle</item>
+    <item name="drawable/widget_btn_shuffle_active">@drawable/com_nullsoft_winamp_widget_btn_shuffle_active</item>
+    <item name="drawable/widget_btn_shuffle_pressed">@drawable/com_nullsoft_winamp_widget_btn_shuffle_pressed</item>
+    <item name="drawable/widget_btn_stop">@drawable/com_nullsoft_winamp_widget_btn_stop</item>
+    <item name="drawable/widget_btn_stop_pressed">@drawable/com_nullsoft_winamp_widget_btn_stop_pressed</item>
+    <item name="drawable/widget_4x1_bg">@drawable/frameworks_res_popup_full_dark</item>
+</resource-redirections>

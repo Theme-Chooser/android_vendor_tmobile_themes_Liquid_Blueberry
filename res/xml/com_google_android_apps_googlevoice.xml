@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/first_use_icon">@drawable/com_google_android_apps_googlevoice_first_use_icon</item>
+    <item name="drawable/gv_toggle_droid_icon">@drawable/com_google_android_apps_googlevoice_gv_toggle_droid_icon</item>
+    <item name="drawable/icon">@drawable/com_google_android_apps_googlevoice_icon</item>
+</resource-redirections>

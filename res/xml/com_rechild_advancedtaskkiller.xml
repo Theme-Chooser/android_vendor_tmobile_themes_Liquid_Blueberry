@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon2">@drawable/com_rechild_advancedtaskkiller_icon2</item>
+    <item name="drawable/notification">@drawable/com_rechild_advancedtaskkiller_notification</item>
+    <item name="drawable/widgeticon">@drawable/com_rechild_advancedtaskkiller_widgeticon</item>
+</resource-redirections>

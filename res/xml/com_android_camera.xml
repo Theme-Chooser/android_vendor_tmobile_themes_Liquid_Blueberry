@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/camera_background">@drawable/com_android_camera_background</item>
+    <item name="drawable/border_last_picture">@drawable/com_android_camera_border_last_picture</item>
+    <item name="drawable/btn_camera_review">@drawable/com_android_camera_btn_camera_review</item>
+    <item name="drawable/btn_mode_switch_knob">@drawable/com_android_camera_btn_mode_switch_knob</item>
+    <item name="drawable/btn_shutter">@drawable/com_android_camera_btn_shutter</item>
+</resource-redirections>

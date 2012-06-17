@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/android_tether_icon</item>
+    <item name="drawable/start">@drawable/android_tether_start</item>
+    <item name="drawable/start_notification">@drawable/android_tether_start_notification</item>
+</resource-redirections>

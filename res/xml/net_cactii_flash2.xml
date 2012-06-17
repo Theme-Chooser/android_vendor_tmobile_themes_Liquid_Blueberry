@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_inner_focus_c">@drawable/com_android_music_appwidget_inner_focus_c</item>
+    <item name="drawable/appwidget_inner_press_c">@drawable/com_android_music_appwidget_inner_press_c</item>
+    <item name="drawable/icon">@drawable/net_cactii_flash2_icon</item>
+    <item name="drawable/notification_icon">@drawable/net_cactii_flash2_notification_icon</item>
+    <item name="drawable/bulb_on">@drawable/net_cactii_flash2_bulb_on</item>
+</resource-redirections>
