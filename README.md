@@ -1,4 +1,5 @@
-INSTALLATION INSTRUCTIONS:
+ INSTALLATION INSTRUCTIONS:
+ ---------------
 
 1. Download and install the Liquid_Blueberry.apk as you would do any normal android application.
 2. Launch theme chooser and select Liquid Blueberry from the list of themes.
@@ -9,7 +10,8 @@ COME SUPPORT US
 YOUR FAVORITE ROM IS NOW ON SERVER
 IRC.FREENODE.NET CHANNEL NAME ##LIQUID
 
-CREDITS:
+ CREDITS: 
+ ---------------
 
 Upwardspiral Blue Bionic used Theme images and Color XML Used as the base for the Template and Support in Getting wallpape
 cush2push (Geoffry (Koush)) For Helping with Compiling Issues and answering Questions
