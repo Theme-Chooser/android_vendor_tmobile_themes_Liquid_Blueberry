@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_dark_bg">@drawable/frameworks_res_popup_full_dark</item>
+    <item name="drawable/appwidget_dark_bg_focus">@drawable/frameworks_res_popup_full_dark</item>
+    <item name="drawable/appwidget_dark_bg_press">@drawable/frameworks_res_popup_full_dark</item>
+    <item name="drawable/appwidget_inner_focus_c">@drawable/appwidget_inner_press</item>
+    <item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_press</item>
+    <item name="drawable/appwidget_inner_focus_r">@drawable/appwidget_inner_press</item>
+    <item name="drawable/appwidget_inner_press_c">@drawable/appwidget_inner_press</item>
+    <item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press</item>
+    <item name="drawable/appwidget_inner_press_r">@drawable/appwidget_inner_press</item>
+    <item name="drawable/textfield_default">@drawable/com_google_android_apps_plus_textfield_default</item>
+    <item name="drawable/textfield_pressed">@drawable/com_google_android_apps_plus_textfield_pressed</item>
+    <item name="drawable/textfield_selected">@drawable/com_google_android_apps_plus_textfield_selected</item>
+    <item name="drawable/icon">@drawable/com_google_android_apps_plus_icon</item>
+    <item name="drawable/camera_white">@drawable/com_google_android_apps_plus_camera_white</item>
+    <item name="drawable/gallery_white">@drawable/com_google_android_apps_plus_gallery_white</item>
+</resource-redirections>

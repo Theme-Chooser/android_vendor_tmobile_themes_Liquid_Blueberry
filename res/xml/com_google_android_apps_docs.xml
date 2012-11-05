@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/launchericon">@drawable/com_google_android_apps_docs_launchericon</item>
+</resource-redirections>

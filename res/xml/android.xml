@@ -105,6 +105,7 @@
     <item name="drawable/popup_top_dark">@drawable/frameworks_res_popup_top_dark</item>
     <item name="drawable/quickcontact_badge_pressed">@drawable/frameworks_res_quickcontact_badge_pressed</item>
     <item name="drawable/quickcontact_badge_small_pressed">@drawable/frameworks_res_quickcontact_badge_small_pressed</item>
+    <item name="drawable/seek_thumb_normal">@drawable/frameworks_res_seek_thumb_normal</item>
     <item name="drawable/seek_thumb_pressed">@drawable/frameworks_res_seek_thumb_pressed</item>
     <item name="drawable/seek_thumb_selected">@drawable/frameworks_res_seek_thumb_selected</item>
     <item name="drawable/spinner_press">@drawable/frameworks_res_spinner_press</item>
@@ -145,6 +146,7 @@
     <item name="drawable/timepicker_up_pressed">@drawable/frameworks_res_timepicker_up_pressed</item>
     <item name="drawable/timepicker_up_selected">@drawable/frameworks_res_timepicker_up_selected</item>
     <item name="drawable/progress_horizontal">@drawable/frameworks_res_progress_horizontal</item>
+    <item name="drawable/progress_indeterminate_horizontal">@drawable/frameworks_res_progress_indeterminate_horizontal</item>
     <item name="drawable/spinner_black_16">@drawable/frameworks_res_spinner_black_16</item>
     <item name="drawable/spinner_black_20">@drawable/frameworks_res_spinner_black_20</item>
     <item name="drawable/spinner_black_48">@drawable/frameworks_res_spinner_black_48</item>
@@ -207,6 +209,7 @@
     <item name="drawable/toast_frame">@drawable/frameworks_res_toast_frame</item>
     <item name="drawable/usb_android">@drawable/frameworks_res_usb_android</item>
     <item name="drawable/usb_android_connected">@drawable/frameworks_res_usb_android_connected</item>
+    <item name="drawable/keyboard_textfield_selected">@drawable/frameworks_res_keyboard_textfield_selected</item>
     <item name="style/TextAppearance.StatusBar.EventContent">@style/TextAppearance.StatusBar.EventContent</item>
     <item name="style/TextAppearance.StatusBar.EventContent.Title">@style/TextAppearance.StatusBar.EventContent.Title</item>
     <item name="style/TextAppearance.StatusBar">@style/TextAppearance.StatusBar</item>

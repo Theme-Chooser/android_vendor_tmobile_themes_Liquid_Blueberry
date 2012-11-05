@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/jb_smsmms">@drawable/com_jb_gosms_jb_smsmms</item>
+    <item name="drawable/state_notify_msg">@drawable/com_jb_gosms_state_notify_msg</item>
+    <item name="drawable/state_notify_msg_pink_original">@drawable/com_jb_gosms_state_notify_msg_pink_original</item>
+    <item name="drawable/state_notify_msg_pink">@drawable/com_jb_gosms_state_notify_pink</item>
+</resource-redirections>

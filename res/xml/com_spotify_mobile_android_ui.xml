@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/com_spotify_mobile_android_ui_icon</item>
+    <item name="drawable/widget_bg">@drawable/com_spotify_mobile_android_ui_widget_bg</item>
+    <item name="drawable/widget_btn">@drawable/com_spotify_mobile_android_ui_widget_btn</item>
+    <item name="drawable/widget_btn_down">@drawable/com_spotify_mobile_android_ui_widget_btn_down</item>
+    <item name="drawable/widget_btn_hover">@drawable/com_spotify_mobile_android_ui_widget_btn_down</item>
+    <item name="drawable/widget_small_icon">@drawable/com_spotify_mobile_android_ui_widget_small_icon</item>
+</resource-redirections>

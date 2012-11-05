@@ -3,4 +3,26 @@
     <item name="drawable/first_use_icon">@drawable/com_google_android_apps_googlevoice_first_use_icon</item>
     <item name="drawable/gv_toggle_droid_icon">@drawable/com_google_android_apps_googlevoice_gv_toggle_droid_icon</item>
     <item name="drawable/icon">@drawable/com_google_android_apps_googlevoice_icon</item>
+    <item name="drawable/widget_inbox_arrow_left_focus">@drawable/com_google_android_apps_googlevoice_widget_inbox_arrow_left_press</item>
+    <item name="drawable/widget_inbox_arrow_left_press">@drawable/com_google_android_apps_googlevoice_widget_inbox_arrow_left_press</item>
+    <item name="drawable/widget_inbox_arrow_right_focus">@drawable/com_google_android_apps_googlevoice_widget_inbox_arrow_right_press</item>
+    <item name="drawable/widget_inbox_arrow_right_press">@drawable/com_google_android_apps_googlevoice_widget_inbox_arrow_right_press</item>
+    <item name="drawable/widget_inbox_preview_focus">@drawable/com_google_android_apps_googlevoice_widget_press</item>
+    <item name="drawable/widget_inbox_preview_press">@drawable/com_google_android_apps_googlevoice_widget_press</item>
+    <item name="drawable/widget_inbox_background">@drawable/com_google_android_apps_googlevoice_widget_inbox_background</item>
+    <item name="drawable/widget_settings_background">@drawable/com_google_android_apps_googlevoice_widget_settings_background</item>
+    <item name="drawable/widget_settings_call_settings">@drawable/com_google_android_apps_googlevoice_widget_settings_call_settings</item>
+    <item name="drawable/widget_settings_call_settings_disabled">@drawable/com_google_android_apps_googlevoice_widget_settings_call_settings_disabled</item>
+    <item name="drawable/widget_settings_compose">@drawable/com_google_android_apps_googlevoice_widget_settings_compose</item>
+    <item name="drawable/widget_settings_compose_disabled">@drawable/com_google_android_apps_googlevoice_widget_settings_compose_disabled</item>
+    <item name="drawable/widget_settings_do_not_disturb_disabled">@drawable/com_google_android_apps_googlevoice_widget_settings_do_not_disturb_disabled</item>
+    <item name="drawable/widget_settings_do_not_disturb_off">@drawable/com_google_android_apps_googlevoice_widget_settings_do_not_disturb_off</item>
+    <item name="drawable/widget_settings_do_not_disturb_on">@drawable/com_google_android_apps_googlevoice_widget_settings_do_not_disturb_on</item>
+    <item name="drawable/widget_settings_inbox">@drawable/com_google_android_apps_googlevoice_widget_settings_inbox</item>
+    <item name="drawable/widget_settings_button_focus_centre">@drawable/com_google_android_apps_googlevoice_widget_press</item>
+    <item name="drawable/widget_settings_button_focus_left">@drawable/com_google_android_apps_googlevoice_widget_press</item>
+    <item name="drawable/widget_settings_button_focus_right">@drawable/com_google_android_apps_googlevoice_widget_press</item>
+    <item name="drawable/widget_settings_button_press_centre">@drawable/com_google_android_apps_googlevoice_widget_press</item>
+    <item name="drawable/widget_settings_button_press_left">@drawable/com_google_android_apps_googlevoice_widget_press</item>
+    <item name="drawable/widget_settings_button_press_right">@drawable/com_google_android_apps_googlevoice_widget_press</item>
 </resource-redirections>

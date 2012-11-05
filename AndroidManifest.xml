@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
  # Copyright (C) 2010, T-Mobile USA, Inc.
  #
@@ -20,8 +20,8 @@
 	xmlns:pluto="http://www.w3.org/2001/pluto.html"
 	package="com.tmobile.theme.Liquid_Blueberry"
 	android:hasCode="false"
-	android:versionCode="5" 
-	android:versionName="0.0.5">
+	android:versionCode="6" 
+	android:versionName="0.0.6">
 
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
 	

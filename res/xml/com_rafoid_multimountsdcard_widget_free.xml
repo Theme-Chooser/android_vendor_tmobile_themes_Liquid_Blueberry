@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/com_rafoid_multimountsdcard_widget_free_icon</item>
+    <item name="drawable/on">@drawable/com_rafoid_multimountsdcard_widget_free_on</item>
+</resource-redirections>

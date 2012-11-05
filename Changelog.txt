@@ -136,3 +136,93 @@ LauncherPro OPTIONAL theming!
 To theme the LPP widgets, you have two options:
 1)Download the LPP theme with the Blue Bionic name. These are static themes (don’t change color automatically) and your non-rooted friends can use them too.
 2)Download the Chameleon theme that Upwardspiral made. When you are not using one of my themes, it looks like Liquid Blueberry. However, this automatically will change colors whenever you change between any of Upwardspiral themes :)
+
+Version 0.0.6
+Updated Theme with Most recent Blue Bionic 1.7.0
+What's in this version:
+1.7
+Updated Android Market theming and icon
+Updated Google Latitude icon
+Added Google+ in-app theming
+Other minor bugfixes
+1.6
+19 new icons have been themed or updated:
+New Icons:
+Visual Voicemail
+ES File Explorer
+Google Messenger
+Google Reader
+Google Translate
+DiskUsage
+Google Sky Map
+IMDB
+Kayak
+LinkedIn
+Astro
+Mint.com
+Movies (Flixter)
+TV Listings
+Updated Icons:
+Dolphin Browser
+Superuser
+QuickPick
+Dolphin Mini
+File Manager
+Themed 4g/3g statusbar toggle switch for HTC thunderbolt users
+Fixed error where APW links would not theme correctly with Chameleon
+1.5
+Wallpaper refresh! You need the updated version of theme chooser wallpapers to be able to access all of the new wallpapers. If I removed your favorite wallpaper, you can download all of the wallpapers from my xda-developers thread (linked below)
+Added gingerbread style notifications for Handcent and Go SMS. You can find them in the options for each app.
+Themed Go SMS icon.
+Several other minor changes to the theme.
+1.4.7
+Themed the new android market
+Themed the Spotify widget / icon
+Themed the Whatsapp icon
+1.4.6
+Fixed bug with new progress bar on mdpi devices and improved the look of the glow effect for all resolutions
+Added theming of Opera and Opera Mini icons.
+Added theming of dolphin mini icon.
+Added theming of dolphin HD icon through the chameleon theme (It could not be themed regularly for technical reasons).
+Added theming of google+ icon and widget
+1.4.5
+Honeycomb inspired progress bar.
+New "bar" at the top of popups and widgets.
+Fixed bug with saturday events on showing up on LPP widget for chameleon users.
+Fixed oversized phone icon for MDPI users using stock launcher.
+Status bar events are slightly brighter / more visible.
+Tons of other minor tweaks.
+1.4.4
+Themed Icons:
+Pulse
+Amazon MP3
+ebuddy
+google books
+google docs
+google gesture search
+Notification Restart (get this app!)
+tasker
+Multimount sd card
+Themed Widgets:
+Facebook
+In-app theming
+Stock Deskclock (thanks Don't Panic)
+This also adds support to theme my Chameleon app. These apps can't be themed by theme chooser alone, but will theme if you use the icon pack that's built into Chameleon:
+Google Music beta
+Titanium Backup
+QuickPic
+Weather Channel
+1.4.3
+Fixed bug in LauncherPro Plus widgets for mdpi devices.
+Better android market filtering.
+Other minor bug fixes.
+1.4.2
+Redid all statusbar icons to match themes exactly
+Reformated the wallpapers to make the apps much smaller
+1.4.1 (5/3/2011)
+Theming for tablet navigation! you may still get errors, but everything should work great.
+Google Talk widget theming
+Updated app preview that displays correctly
+Much more complete phone theming, including toggle buttons and notifications. Nothing crazy, just recoloring what is already there
+Red Remix: Fixed coloring for battery on hdpi devices
+Minimal Magic: Black text with white background for notifications!

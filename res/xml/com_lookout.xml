@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/logo_box_72x72">@drawable/com_lookout_logo_box_72x72</item>
+</resource-redirections>

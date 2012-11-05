@@ -10,6 +10,9 @@
     <item name="drawable/wallpaper7">@drawable/wallpaper7</item>
     <item name="drawable/wallpaper8">@drawable/wallpaper8</item>
     <item name="drawable/wallpaper9">@drawable/wallpaper9</item>
+    <item name="drawable/wallpaper10">@drawable/wallpaper10</item>
+    <item name="drawable/wallpaper11">@drawable/wallpaper11</item>
+    <item name="drawable/wallpaper12">@drawable/wallpaper12</item>
     <item name="drawable/wallpaper1_small">@drawable/wallpaper1_small</item>
     <item name="drawable/wallpaper2_small">@drawable/wallpaper2_small</item>
     <item name="drawable/wallpaper3_small">@drawable/wallpaper3_small</item>
@@ -19,5 +22,8 @@
     <item name="drawable/wallpaper7_small">@drawable/wallpaper7_small</item>
     <item name="drawable/wallpaper8_small">@drawable/wallpaper8_small</item>
     <item name="drawable/wallpaper9_small">@drawable/wallpaper9_small</item>
+    <item name="drawable/wallpaper10_small">@drawable/wallpaper10_small</item>
+    <item name="drawable/wallpaper11_small">@drawable/wallpaper11_small</item>
+    <item name="drawable/wallpaper12_small">@drawable/wallpaper12_small</item>
     <item name="string/wallpaper_label">@string/wallpaper_label</item>
 </resource-redirections>

@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
     <item name="drawable/icon">@drawable/com_facebook_katana_icon</item>
+    <item name="drawable/appwidget_bg">@drawable/frameworks_res_popup_full_bright</item>
+    <item name="drawable/appwidget_bg_focus">@drawable/frameworks_res_popup_full_bright</item>
+    <item name="drawable/appwidget_bg_press">@drawable/frameworks_res_popup_full_bright</item>
+    <item name="drawable/appwidget_top_white">@drawable/com_facebook_katana_appwidget_top_white</item>
+    <item name="drawable/appwidget_facebook_icon_default">@drawable/com_facebook_katana_appwidget_facebook_icon</item>
+    <item name="drawable/appwidget_facebook_icon_pressed">@drawable/com_facebook_katana_appwidget_facebook_icon</item>
+    <item name="drawable/appwidget_facebook_icon_selected">@drawable/com_facebook_katana_appwidget_facebook_icon</item>
 </resource-redirections>

@@ -15,4 +15,5 @@
     <item name="drawable/ym_btn_arrow_left_selected">@drawable/com_android_vending_btn_gallery_arrow_left_press</item>
     <item name="drawable/ym_btn_arrow_right_press">@drawable/com_android_vending_btn_gallery_arrow_right_press</item>
     <item name="drawable/ym_btn_arrow_right_selected">@drawable/com_android_vending_btn_gallery_arrow_right_press</item>
+    <item name="drawable/icon_yellow_ur_noti">@drawable/com_handcent_nextsms_icon_yellow_ur_noti</item>
 </resource-redirections>

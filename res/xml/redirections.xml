@@ -64,8 +64,8 @@
     <package-redirections android:name="com.timsu.astrid" android:resource="@xml/com_timsu_astrid" android:minSdkVersion="7" />
     <package-redirections android:name="com.tmobile.themechooser" android:resource="@xml/com_tmobile_themechooser" android:minSdkVersion="7" />
     <package-redirections android:name="com.twitter.android" android:resource="@xml/com_twitter_android" android:minSdkVersion="7" />
-    <package-redirections android:name="com.upwardspiral.wallpapers" android:resource="@xml/com_upwardspiral_wallpapers" android:minSdkVersion="7" />
-    <package-redirections android:name="com.upwardspiral.lp.chameleon" android:resource="@xml/com_upwardspiral_lp_chameleon" android:minSdkVersion="7" />
+    <package-redirections android:name="com.Raziel23x.wallpapers" android:resource="@xml/com_Raziel23x_wallpapers" android:minSdkVersion="7" />
+    <package-redirections android:name="com.Raziel23x.lp.chameleon" android:resource="@xml/com_Raziel23x_lp_chameleon" android:minSdkVersion="7" />
     <package-redirections android:name="fm.last.android" android:resource="@xml/fm_last_android" android:minSdkVersion="7" />
     <package-redirections android:name="mobi.sportstap.android.sportstap" android:resource="@xml/mobi_sportstap_android_sportstap" android:minSdkVersion="7" />
     <package-redirections android:name="net.cactii.flash2" android:resource="@xml/net_cactii_flash2" android:minSdkVersion="7" />

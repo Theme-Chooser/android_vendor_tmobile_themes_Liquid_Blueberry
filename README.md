@@ -6,9 +6,6 @@
 3. Click Apply.
 4. Reboot Phone.
 
-COME SUPPORT US
-YOUR FAVORITE ROM IS NOW ON SERVER
-IRC.FREENODE.NET CHANNEL NAME ##LIQUID
 
  CREDITS: 
  ---------------

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon_application">@drawable/com_amazon_mp3_icon_application</item>
+</resource-redirections>

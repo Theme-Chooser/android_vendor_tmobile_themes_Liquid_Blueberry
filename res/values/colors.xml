@@ -44,4 +44,13 @@
     <color name="header_background_highdarkTransparent1">#00003fba</color>
     <color name="header_background_highdark2">#ff003294</color>
     <color name="cal_appwidget_text">#ffffffff</color>
+    <color name="com_Raziel23x_lp_chameleon_widget_twitter_tweet_link_color">#ff3276ff</color>
+    <color name="com_android_phone_incall_textConnected">#ff0052f7</color>
+    <color name="com_android_phone_incall_textConnectedBluetooth">#ff0052f7</color>
+    <color name="com_android_phone_incall_textEnded">#ff0052f7</color>
+    <color name="com_android_phone_incall_textOnHold">#ff0052f7</color>
+    <color name="com_android_phone_incall_endButtonLabel">#ff0052f7</color>
+    <color name="com_android_phone_incall_callTypeSip">#ff0052f7</color>
+    <color name="apps_foreground">#ff196eff</color>
+    <color name="apps_background">#ff196eff</color>
 </resources>

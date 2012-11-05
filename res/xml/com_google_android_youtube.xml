@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resource-redirections>
-    <item name="drawable/appwidget_inner_focus_l">@drawable/com_google_android_youtube_appwidget_inner_focus_l</item>
-    <item name="drawable/appwidget_inner_press_l">@drawable/com_google_android_youtube_appwidget_inner_focus_l</item>
+    <item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_press</item>
+    <item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press</item>
     <item name="drawable/btn_logo_normal">@drawable/com_google_android_youtube_btn_logo_normal</item>
     <item name="drawable/btn_logo_selected">@drawable/com_google_android_youtube_btn_logo_selected</item>
     <item name="drawable/ic_launcher_youtube">@drawable/com_google_android_youtube_ic_launcher_youtube</item>
